@@ -2388,8 +2388,6 @@
 				}
 
 		ul.major-icons {
-			min-width: 990px;
-			align-self: center;
 			list-style: none;
 			padding-left: 0;
 		}
@@ -3444,4 +3442,8 @@
 
 .skills-logo {
 	font-size: 150px;
+}
+
+.space-filler {
+	height: 1em;
 }
